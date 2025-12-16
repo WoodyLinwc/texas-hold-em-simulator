@@ -1,0 +1,5 @@
+{
+  "name": "Texas Hold'em Simulator",
+  "description": "A Texas Hold'em simulator with local hand analysis and equity calculation.",
+  "requestFramePermissions": []
+}
