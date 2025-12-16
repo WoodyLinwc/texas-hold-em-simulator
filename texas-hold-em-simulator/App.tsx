@@ -350,7 +350,7 @@ const App: React.FC = () => {
             </div>
 
             {/* Player Area (Bottom) */}
-            <div className="absolute bottom-28 sm:bottom-36 flex flex-col items-center gap-2 transition-all duration-500 z-10 scale-[0.8] sm:scale-100 origin-bottom">
+            <div className="absolute bottom-28 sm:bottom-50 flex flex-col items-center gap-2 transition-all duration-500 z-10 scale-[0.8] sm:scale-100 origin-bottom">
               <div className="flex gap-2 sm:gap-4">
                 {playerHand.map((card, idx) => (
                   <Card
